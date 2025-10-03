@@ -1,4 +1,4 @@
-# StreamDb
+# DeMoD StreamDb
 
 A minimalist database that uses only Streams as storage, and can survive power loss and data corruption.
 This is working, but don't use it for anything important without significant testing.
@@ -35,3 +35,9 @@ There is also a small WinForms app to explore StreamDB files created by other so
 * [ ] Remove the version request, replace with a 'prev' method.
 * [ ] Replace `lock` with non-recursive mutex calls (for portability)
 * [ ] Finish port to Golang
+
+## NOTICE
+
+This project is licensed under the GNU General Public License v3.0 (see LICENSE-GPL3).
+
+Portions of this project are derived from [Original Project], which is licensed under the BSD 3-Clause License (see LICENSE-BSD3).
