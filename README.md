@@ -40,4 +40,4 @@ There is also a small WinForms app to explore StreamDB files created by other so
 
 This project is licensed under the GNU General Public License v3.0 (see LICENSE-GPL3).
 
-Portions of this project are derived from [Original Project], which is licensed under the BSD 3-Clause License (see LICENSE-BSD3).
+Portions of this project are derived from StreamDB, which is licensed under the BSD 3-Clause License (see LICENSE-BSD3).
